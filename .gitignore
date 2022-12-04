@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2022 Brian Jepson
+#
+# SPDX-License-Identifier: Unlicense
+
+*.mpy
+__pycache__
+*.pyc
+*.egg-info
+.env
+.venv
+*.DS_Store
+.idea
+.vscode
+*~

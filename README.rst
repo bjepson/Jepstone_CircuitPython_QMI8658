@@ -1,4 +1,4 @@
-CircuitPython library for the QMI8658 IMU as found in the Waveshare RP2040-LCD-1.28 <https://www.waveshare.com/wiki/RP2040-LCD-1.28>.
+CircuitPython library for the QMI8658 IMU as found in the Waveshare `RP2040-LCD-1.28 <https://www.waveshare.com/wiki/RP2040-LCD-1.28>`_.
 
 Dependencies
 =============

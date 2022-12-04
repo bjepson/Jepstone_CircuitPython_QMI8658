@@ -15,7 +15,9 @@ This is easily achieved by downloading
 Installation
 ============
 
-Copy the jepstone_qmi8658.py file to your CircuitPython device's lib\ subdirectory (such as ``D:\lib`` on Windows or ``/Volumes/CIRCUITPY`` on macOS). If needed, install the necessary requirements on your CircuitPython device with :code:`circup install adafruit_bus_device adafruit_register`.
+Copy the jepstone_qmi8658.py file to your CircuitPython device's lib\ subdirectory (such as ``D:\lib`` on Windows or ``/Volumes/CIRCUITPY`` on macOS). If needed, install the necessary requirements on your CircuitPython device with::
+    
+    circup install adafruit_bus_device adafruit_register
 
 Usage Example
 =============

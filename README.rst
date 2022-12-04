@@ -20,8 +20,6 @@ Copy the jepstone_qmi8658.py file to your CircuitPython device's lib\ subdirecto
 Usage Example
 =============
 
-.. code-block: python3
-
     import busio
     from board import *
     from jepstone_qmi8658 import QMI8658

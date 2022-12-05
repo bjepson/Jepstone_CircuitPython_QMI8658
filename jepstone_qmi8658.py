@@ -154,7 +154,7 @@ class QMI8658(object):
         # Configure the gyro
         self._gyro_self_test = False
         self._gyro_enable = True
-        self._gyro_full_scale = GyroScale.Range_512dps
+        self._gyro_full_scale = GyroScale.Range_256dps
         self._gyro_output_data_rate = ODR.DR_1000HZ
         self._gyro_lpf_enable = True
         self._gyro_lpf_mode = LPFMode.ODR_2_62_PCT

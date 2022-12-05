@@ -29,7 +29,7 @@ Here's a short example showing how to read temperature, acceleration, and the gy
     from jepstone_qmi8658 import QMI8658
 
     SDL = GP7  # Change if needed
-    SDA = GP6
+    SDA = GP6  # Change if needed
 
     with busio.I2C(SDL, SDA) as i2c:
         device = QMI8658(i2c)
